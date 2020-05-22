@@ -1,4 +1,4 @@
-# Completing Labs with the In-Browser IDE
+ # Completing Labs with the In-Browser IDE
 
 ## Learning Goals
 
